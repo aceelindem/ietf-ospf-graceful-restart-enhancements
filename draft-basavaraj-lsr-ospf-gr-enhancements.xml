@@ -17,11 +17,11 @@
 <?rfc inline="yes"?>
 <?rfc compact="yes"?>
 <?rfc subcompact="no"?>
-<rfc xmlns:xi="http://www.w3.org/2001/XInclude" category="std" docName="draft-basavaraj-lsr-ospf-gr-enhancements-05" ipr="trust200902" obsoletes="" updates="" submissionType="IETF" xml:lang="en" tocInclude="true" tocDepth="3" symRefs="true" sortRefs="true" consensus="true" version="3">
+<rfc xmlns:xi="http://www.w3.org/2001/XInclude" category="std" ipr="trust200902" docName="draft-basavaraj-lsr-ospf-gr-enhancements-08" obsoletes="" updates="" submissionType="IETF" xml:lang="en" tocInclude="true" tocDepth="3" symRefs="true" sortRefs="true" consensus="true" version="3">
   <!-- xml2rfc v2v3 conversion 3.12.10 -->
   <front>
     <title abbrev="OSPF GR Enhancements"> OSPF Graceful Restart Enhancements</title>
-    <seriesInfo name="Internet-Draft" value="draft-basavaraj-lsr-ospf-gr-enhancements-05"/>
+    <seriesInfo name="Internet-Draft" value="draft-basavaraj-lsr-ospf-gr-enhancements-08"/>
     <author fullname="Sami Boutros" initials="S" surname="Boutros">
       <organization>VMware</organization>
       <address>
@@ -41,7 +41,7 @@
       </address>
     </author>
     <author fullname="Acee Lindem" initials="A" surname="Lindem">
-      <organization>Cisco Systems</organization>
+      <organization>LabN Consulting, L.L.C.</organization>
       <address>
         <postal>
           <street>301 Midenhall Way</street>
@@ -50,7 +50,7 @@
           <code>27513</code>
           <country>USA</country>
         </postal>
-        <email>acee@cisco.com</email>
+        <email>acee.ietf@gmail.com</email>
       </address>
     </author>
     <date/>
